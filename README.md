@@ -1,1 +1,2 @@
-# MEIDA-server
+# MIEDA-server
+backend framework for MIEDA
